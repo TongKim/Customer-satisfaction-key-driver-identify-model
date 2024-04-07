@@ -1,4 +1,4 @@
-# Customer Satisfaction Simulator
+# [Customer Satisfaction Simulator](https://jintong707.pythonanywhere.com/)
 
 ## Scope
 The goal is to leverage analytical methods to identify key drivers of customer satisfaction across different restaurant brands. This project will develop targeted strategies for enhancing customer satisfaction and construct a simulator to estimate the impact of adjustments to these key drivers.
