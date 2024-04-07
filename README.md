@@ -9,11 +9,5 @@ Recognizing the need for modern analytics in understanding customer satisfaction
 ## Data Provision
 Survey data, including responses on 25+ potential key satisfaction drivers and overall brand satisfaction, will be provided to support this analysis.
 
-## Getting Started
-To contribute, ensure familiarity with Python, data analysis, and the basics of customer satisfaction evaluation.
-
-## Contributing
-Contributions are welcome! Please see the guidelines for submitting your contributions.
-
 ## Contact
 For more information or to provide feedback, please contact me at tong.jin@wisc.edu.
